@@ -1,5 +1,4 @@
 apples
-oranges
 watermelon
 dragon fruit
 pears
