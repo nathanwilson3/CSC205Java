@@ -1,8 +1,11 @@
 apples
-peaches
+oranges
 watermelon
 dragon fruit
 pears
 kiwi
 cherries
 mango
+banana
+grapefruit
+
